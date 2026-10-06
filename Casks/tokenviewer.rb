@@ -1,6 +1,6 @@
 cask "tokenviewer" do
-  version "0.1.2"
-  sha256 "34b83ea853ae6c098659d1d82c034b3c9fa258833fec41baa30b40e4c73d4d54"
+  version "0.1.3"
+  sha256 "0fa7f6637987bd33d33ec4fd3a1de3917a92ddcdf181521d27574a1c15c7d701"
 
   url "https://github.com/jdragon96/TokenViewer/releases/download/v#{version}/TokenViewer-macos.zip"
   name "TokenViewer"
